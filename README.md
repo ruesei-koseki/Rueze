@@ -1,4 +1,4 @@
-# Rueze
-Infinity Power, Further Possibilities.
+# Rueze Webアプリケーションフレームワーク
+最も強く、使いやすいフレームワーク。
 
 開発中！
